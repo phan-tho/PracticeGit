@@ -7,6 +7,7 @@
 * % git branch -M main
 * % git push -u origin main (-f(force))
 * IF error non-fast-forward ==> git pull origin main (git pull --rebase origin main)
+* git pull --rebase --autostash
 
 ## BRANCH
 * % git checkout -b <name branch>
